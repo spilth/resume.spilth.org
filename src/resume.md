@@ -148,5 +148,5 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://www.spilth.org)
 - <https://github.com/spilth>
 - <http://stackoverflow.com/users/8252/brian-kelly>
 
-*Resume availble as [HTML](http://resume.spilth.org), [PDF](http://resume.spilth.org/brian_kelly_resume.pdf) & [Markdown](http://resume.spilth.org/brian_kelly_resume.md)*
+*My resume is availble as [HTML](http://resume.spilth.org), [PDF](http://resume.spilth.org/brian_kelly_resume.pdf), [Markdown](http://resume.spilth.org/brian_kelly_resume.md) & [Source Code](https://github.com/spilth/resume.spilth.org)*
 

@@ -1,11 +1,11 @@
+# resume.spilth.org
 
-## Installation
+My resume in Markdown format and a script that converts it to HTML and PDF.
 
-- Install Homebrew
-- brew install haskell-platform
-- cabal update
-- cabal install cabal-install
-- cabal install pandoc
-- Run `bundle`
-- Run `rake`
+## Installation & Generation
+
+1. Install [Homebrew](http://mxcl.github.com/homebrew/)
+1. `brew install htmldoc`
+1. `bundle`
+1. `rake`
 
