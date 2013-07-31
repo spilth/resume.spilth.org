@@ -1,10 +1,12 @@
 # Resume for Brian Kelly
 
-Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://www.spilth.org)
+Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 
 ## Work Experience
 
-### Build & Deploy Architect @ Time Inc. (2009 - Present)
+### Principal Software Engineer @ Pivotal Labs (2013 - Present)
+
+### Build & Deploy Architect @ Time Inc. (2009 - 2013)
 
 #### Lead Engineer for Build & Deploy Automation System
 
