@@ -1,5 +1,8 @@
 require 'rdiscount'
 require 'htmldoc'
+require 'aws-sdk'
+require 'dotenv'
+require 'dotenv/tasks'
 
 task :default => :generate_pdf
 
@@ -37,7 +40,6 @@ task :generate_pdf => :generate_html do
   pdf.set_option :size, "8.5x11in"
   pdf.set_option :left, "0.3in"
   pdf.set_option :right, "0.3in"
-  #pdf.set_option :top, "0.3in"
   pdf.set_option :bottom, "0.3in"
   pdf.set_option :linkstyle, "underline"
   pdf.set_option :linkcolor, "000099"
@@ -49,5 +51,27 @@ task :generate_pdf => :generate_html do
   pdf << "target/index.html"
   pdf.generate
   puts "PDF Generated!"
+end
+
+task :upload => [:generate_pdf, :dotenv] do
+  puts "Uploading files..."
+
+  files = [
+    'index.html',
+    'brian_kelly_resume.md',
+    'brian_kelly_resume.pdf',
+    'css/resume.css'
+  ]
+
+  s3 = Aws::S3::Resource.new(region: 'us-east-1')
+  bucket = s3.bucket('resume.spilth.org')
+
+  files.each do |file|
+    puts "Uploading #{file}"
+    object = bucket.object(file)
+    object.upload_file("target/#{file}")
+  end
+
+  puts "Upload complete!"
 end
 

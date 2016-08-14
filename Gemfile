@@ -5,4 +5,5 @@ gem 'rdiscount'
 gem 'annyong'
 gem 'guard-rake'
 gem 'rb-fsevent', '~> 0.9'
-
+gem 'aws-sdk'
+gem 'dotenv'
