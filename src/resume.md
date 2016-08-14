@@ -4,7 +4,15 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 
 ## Work Experience
 
-### Principal Software Engineer @ Pivotal Labs (2013 - Present)
+### Senior Full-Stack Developer @ FetLife (2016 - Present)
+
+- Full stack developer for Ruby on Rails web site
+
+### Principal Software Engineer @ Pivotal Labs (2013 - 2016)
+
+- Full stack developer for Ruby, Java and JavaScript projects
+- Practice test drive development and pairing on a daily basis
+- Created office dashboard to help promote office activities and interactivity
 
 ### Build & Deploy Architect @ Time Inc. (2009 - 2013)
 
