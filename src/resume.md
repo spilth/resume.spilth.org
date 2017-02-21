@@ -16,15 +16,16 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 - Full stack developer for Ruby on Rails web site
 - Upgraded FetLife web site from Rails 4 to Rails 5
 - Automated developer machine setup
-- Improved test suite performance
-- Improved test suite coverage
+- Improved test suite performance and coverage
 - Implemented member invitation system
 
 ### Principal Software Engineer @ Pivotal Labs (2013 - 2016)
 
-- Full stack developer for Ruby, Java and JavaScript projects
-- Practice test drive development and pairing on a daily basis
+- Full stack developer for Ruby and Java/Spring projects
+- Practiced test drive development and pairing on a daily basis
 - Created office dashboard to help promote office activities and interactivity
+- Created workstation setup project to simplify and automate machine provisioning
+- Created internal knowledge base to promote learning and sharing of technologies and coding practies
 
 ### Build & Deploy Architect @ Time Inc. (2009 - 2013)
 
