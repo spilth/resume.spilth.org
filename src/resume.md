@@ -4,9 +4,21 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 
 ## Work Experience
 
-### Senior Full-Stack Developer @ FetLife (2016 - Present)
+### Java Developer @ Lionbridge (2016 - 2017)
+
+- Built a command-line interface for the Lionbridge Translation API
+- Added functionality to the Java SDK for the Lionbridge Translation API
+- Automated the build & depoy process for CLI and JSDK
+- Automated server configuration & provisioning using Ansible
+
+### Senior Full-Stack Developer @ FetLife (2016)
 
 - Full stack developer for Ruby on Rails web site
+- Upgraded FetLife web site from Rails 4 to Rails 5
+- Automated developer machine setup
+- Improved test suite performance
+- Improved test suite coverage
+- Implemented member invitation system
 
 ### Principal Software Engineer @ Pivotal Labs (2013 - 2016)
 
@@ -75,7 +87,7 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 #### Technical Lead for Life.com Redesign
 
 - Wrote technical specification
-- Managed contract employee 
+- Managed contract employee
 
 #### Miscellaneous
 
@@ -83,7 +95,7 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 - Assisted in migrating sites from Vignette 5 to Vignette 6
 - Participated in small team of experts to evaluate potential Content Management System solution
 - Provided technical assistance, prototype and technical specification for dynamic InStyle image galleries
-- Created TCL libraries, HTML, CSS and JavaScript for internal documentation system 
+- Created TCL libraries, HTML, CSS and JavaScript for internal documentation system
 - Participated in Best Practices Initiative
 - Participated in Content Management System team
 
@@ -159,4 +171,3 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 - <http://stackoverflow.com/users/8252/brian-kelly>
 
 *My resume is availble as [HTML](http://resume.spilth.org), [PDF](http://resume.spilth.org/brian_kelly_resume.pdf), [Markdown](http://resume.spilth.org/brian_kelly_resume.md) & [Source Code](https://github.com/spilth/resume.spilth.org)*
-
