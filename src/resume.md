@@ -6,8 +6,8 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 
 ### Java Developer @ Lionbridge (2016 - 2017)
 
-- Built a command-line interface for the Lionbridge Translation API
-- Added functionality to the Java SDK for the Lionbridge Translation API
+- Built a [command-line interface for the Lionbridge Translation API](https://bitbucket.org/liox-ondemand/liox-content-cli)
+- Added functionality to the [Java SDK for the Lionbridge Translation API](https://bitbucket.org/liox-ondemand/liox-content-sdk-java)
 - Automated the build & depoy process for CLI and JSDK
 - Automated server configuration & provisioning using Ansible
 
