@@ -10,6 +10,7 @@ GEM
     aws-sdk-resources (2.3.16)
       aws-sdk-core (= 2.3.16)
     coderay (1.0.9)
+    dotenv (2.2.0)
     guard (1.6.2)
       listen (>= 0.6.0)
       lumberjack (>= 1.0.2)
@@ -44,10 +45,11 @@ PLATFORMS
 DEPENDENCIES
   annyong
   aws-sdk
+  dotenv
   guard-rake
   htmldoc
   rb-fsevent (~> 0.9)
   rdiscount
 
 BUNDLED WITH
-   1.12.5
+   1.13.6
