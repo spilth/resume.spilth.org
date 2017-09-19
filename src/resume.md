@@ -8,7 +8,7 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 
 - Built a [command-line interface for the Lionbridge Translation API](https://bitbucket.org/liox-ondemand/liox-content-cli)
 - Added functionality to the [Java SDK for the Lionbridge Translation API](https://bitbucket.org/liox-ondemand/liox-content-sdk-java)
-- Automated the build & depoy process for CLI and JSDK
+- Automated the build & deploy process for the CLI and JSDK
 - Automated server configuration & provisioning using Ansible
 
 ### Senior Full-Stack Developer @ FetLife (2016)
@@ -22,10 +22,10 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 ### Principal Software Engineer @ Pivotal Labs (2013 - 2016)
 
 - Full stack developer for Ruby and Java/Spring projects
-- Practiced test drive development and pairing on a daily basis
+- Practiced test driven development and pairing on a daily basis
 - Created office dashboard to help promote office activities and interactivity
 - Created workstation setup project to simplify and automate machine provisioning
-- Created internal knowledge base to promote learning and sharing of technologies and coding practies
+- Created internal knowledge base to promote learning and sharing of technologies and coding practices
 
 ### Build & Deploy Architect @ Time Inc. (2009 - 2013)
 
@@ -171,4 +171,4 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 - <https://github.com/spilth>
 - <http://stackoverflow.com/users/8252/brian-kelly>
 
-*My resume is availble as [HTML](http://resume.spilth.org), [PDF](http://resume.spilth.org/brian_kelly_resume.pdf), [Markdown](http://resume.spilth.org/brian_kelly_resume.md) & [Source Code](https://github.com/spilth/resume.spilth.org)*
+*My resume is available as [HTML](http://resume.spilth.org), [PDF](http://resume.spilth.org/brian_kelly_resume.pdf), [Markdown](http://resume.spilth.org/brian_kelly_resume.md) & [Source Code](https://github.com/spilth/resume.spilth.org)*
