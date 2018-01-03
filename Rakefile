@@ -1,6 +1,6 @@
 require 'rdiscount'
 require 'htmldoc'
-require 'aws-sdk'
+require 'aws-sdk-s3'
 require 'dotenv'
 require 'dotenv/tasks'
 
