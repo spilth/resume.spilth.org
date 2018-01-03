@@ -4,6 +4,8 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 
 ## Work Experience
 
+### Senior Software Engineer @ Carbon Five (2018 - Present)
+
 ### Java Developer @ Lionbridge (2016 - 2017)
 
 - Built a [command-line interface for the Lionbridge Translation API](https://bitbucket.org/liox-ondemand/liox-content-cli)
