@@ -4,9 +4,10 @@ require 'aws-sdk'
 require 'dotenv'
 require 'dotenv/tasks'
 
-task :default => :generate_pdf
+task :default => :deploy
 
-task :generate_html do
+desc 'Generate HTML Version'
+task :html do
   puts "Generating HTML from Markdown..."
   file = File.open("src/resume.md", "rb")
   contents = file.read
@@ -31,7 +32,8 @@ task :generate_html do
   puts "HTML Generated!"
 end
 
-task :generate_pdf => :generate_html do
+desc 'Generate PDF version'
+task :pdf => :html do
   puts "Gererating PDF from HTML..."
   
   pdf = PDF::HTMLDoc.new
@@ -53,7 +55,8 @@ task :generate_pdf => :generate_html do
   puts "PDF Generated!"
 end
 
-task :upload => [:generate_pdf, :dotenv] do
+desc 'Deploy to Amazon S3'
+task :deploy => [:pdf, :dotenv] do
   puts "Uploading files..."
 
   files = [
