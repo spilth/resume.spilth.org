@@ -151,26 +151,22 @@ Brooklyn, NY - <polymonic@gmail.com> - [spilth.org](http://spilth.org)
 
 ## Skills, Languages, Tools
 
-- Ruby, HTML, JavaScript, CSS, Java, PHP
-- Ruby on Rails, jQuery
-- Git, Subversion
-- MySQL, PostgreSQL
-- Agile, Kanban, Pomodoro Technique
+- Ruby, JavaScript, HTML, CSS, Java
+- Ruby on Rails, React
+- Git, PostgreSQL, GraphQL
+- Agile, Test Driven Development
 
 ## Interests
 
-- Software Development (Web, Desktop, Games)
+- Software Development
 - Songwriting
-- Mountain Biking
-- Gaming
-- Geographic Information Systems
+- Games
 
 ## Links
 
 - <http://spilth.org/>
-- <http://careers.stackoverflow.com/spilth>
-- <http://www.linkedin.com/in/spilth>
 - <https://github.com/spilth>
-- <http://stackoverflow.com/users/8252/brian-kelly>
+- <http://www.linkedin.com/in/spilth>
 
-*My resume is available as [HTML](http://resume.spilth.org), [PDF](http://resume.spilth.org/brian_kelly_resume.pdf), [Markdown](http://resume.spilth.org/brian_kelly_resume.md) & [Source Code](https://github.com/spilth/resume.spilth.org)*
+*My resume is available as [HTML](https://resume.spilth.org), [PDF](https://resume.spilth.org/brian_kelly_resume.pdf), [Markdown](https://resume.spilth.org/brian_kelly_resume.md) & [Source Code](https://github.com/spilth/resume.spilth.org)*
+

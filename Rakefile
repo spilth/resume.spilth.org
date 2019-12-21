@@ -55,26 +55,10 @@ task :pdf => :html do
   puts "PDF Generated!"
 end
 
-desc 'Deploy to Amazon S3'
+desc 'Deploy to Netlify'
 task :deploy => [:pdf, :dotenv] do
   puts "Uploading files..."
 
-  files = [
-    'index.html',
-    'brian_kelly_resume.md',
-    'brian_kelly_resume.pdf',
-    'css/resume.css'
-  ]
-
-  s3 = Aws::S3::Resource.new(region: 'us-east-1')
-  bucket = s3.bucket('resume.spilth.org')
-
-  files.each do |file|
-    puts "Uploading #{file}"
-    object = bucket.object(file)
-    object.upload_file("target/#{file}")
-  end
-
-  puts "Upload complete!"
+  system 'netlify deploy --prod --dir target'
 end
 
